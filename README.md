@@ -6,8 +6,12 @@ Además de mi compromiso con el trabajo en equipo, también me enfoco en desarro
 
 En resumen, mi enfoque en el cumplimiento de proyectos, el trabajo en equipo y el desarrollo de habilidades técnicas y de liderazgo me ha permitido avanzar en mi carrera académica en Sistemas Computacionales. Sigo comprometido con mi educación y estoy emocionado por ver lo que el futuro me depara en el campo de la informática y la tecnología.
 
-## Mis proyectos:
+## Un par de proyectos:
 * <a href="https://github.com/Ivan-Herrera-Garcia/Certificados">Certificados</a>
 * <a href="https://github.com/Ivan-Herrera-Garcia/Web-Scraping">Web Scraping con C#</a>
 * <a href="https://github.com/Ivan-Herrera-Garcia/Mi-sition-web">Mi sitio web personal</a>
 * <a href="https://github.com/Ivan-Herrera-Garcia/Things-with-Python">Algunos proyectos con Python</a>
+
+
+## Herramientas y lenguajes de programacon:
+<a src="https://user-images.githubusercontent.com/71898783/234953651-031e7f1d-9587-4ad4-a279-6358d1da75dd.png" width=200 height=200></a>
