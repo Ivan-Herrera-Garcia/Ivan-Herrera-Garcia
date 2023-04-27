@@ -14,4 +14,5 @@ En resumen, mi enfoque en el cumplimiento de proyectos, el trabajo en equipo y e
 
 
 ## Herramientas y lenguajes de programacon:
-<a src="https://user-images.githubusercontent.com/71898783/234953651-031e7f1d-9587-4ad4-a279-6358d1da75dd.png" width=200 height=200></a>
+<a src=![Python svg](https://user-images.githubusercontent.com/71898783/234955046-9264f35f-3485-48dc-a564-5ebc88cde669.png) width=200 height=200></a>
+
