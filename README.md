@@ -15,11 +15,10 @@ En resumen, mi enfoque en el cumplimiento de proyectos, el trabajo en equipo y e
 
 ## Herramientas y lenguajes de programacon:
 <img src=https://user-images.githubusercontent.com/71898783/234955046-9264f35f-3485-48dc-a564-5ebc88cde669.png width=50 height=50></a>
-<img src=https://user-images.githubusercontent.com/71898783/234956817-38463612-5680-46b3-92fe-68ab81ab5723.png width=50 height=50></a>
+<img src=https://user-images.githubusercontent.com/71898783/234956817-38463612-5680-46b3-92fe-68ab81ab5723.png width=75 height=70></a>
 <img src=https://user-images.githubusercontent.com/71898783/234955778-9378266f-5b15-419e-8a1e-9f25dfd8c96a.png width=50 height=50></a>
 <img src=https://user-images.githubusercontent.com/71898783/234955873-0e7a1cbd-b088-40db-9f7f-e23bb52364c1.png width=50 height=50></a>
-<img src=https://user-images.githubusercontent.com/71898783/234956990-311aeab9-8274-46f1-936f-aee7a882cacb.png width=50 height=50></a>
-<img src=https://user-images.githubusercontent.com/71898783/234957073-28606cc1-d49f-4621-9efb-75c72dfe44a0.png width=50 height=50></a>
+<img src=https://user-images.githubusercontent.com/71898783/234956990-311aeab9-8274-46f1-936f-aee7a882cacb.png width=50 height=100></a>
 <img src=https://user-images.githubusercontent.com/71898783/234957182-6a963dda-90cf-42a8-95a7-94b81b74671b.jpg width=50 height=50></a>
 
 
