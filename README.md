@@ -6,6 +6,8 @@ Además de mi compromiso con el trabajo en equipo, también me enfoco en desarro
 
 En resumen, mi enfoque en el cumplimiento de proyectos, el trabajo en equipo y el desarrollo de habilidades técnicas y de liderazgo me ha permitido avanzar en mi carrera académica en Sistemas Computacionales. Sigo comprometido con mi educación y estoy emocionado por ver lo que el futuro me depara en el campo de la informática y la tecnología.
 
+Mi laptop personal: AMD RYZEN 5 3550H (8 Nucleos) con 16 GB RAM. Windows 11 y disponible maquina virtual con Linux Fedora.
+
 ## Un par de proyectos:
 * <a href="https://github.com/Ivan-Herrera-Garcia/Certificados">Certificados</a>
 * <a href="https://github.com/Ivan-Herrera-Garcia/Web-Scraping">Web Scraping con C#</a>
