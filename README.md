@@ -8,7 +8,7 @@ En resumen, mi enfoque en el cumplimiento de proyectos, el trabajo en equipo y e
 
 Mi laptop personal: AMD RYZEN 5 3550H (8 Nucleos) con 16 GB RAM. Windows 11 y disponible maquina virtual con Linux Fedora.
 
-## Un par de proyectos:
+## Un par de proyectos y mis certificaciones/Reconocimientos/Constancias:
 * <a href="https://github.com/Ivan-Herrera-Garcia/Certificados">Certificados</a>
 * <a href="https://github.com/Ivan-Herrera-Garcia/Web-Scraping">Web Scraping con C#</a>
 * <a href="https://github.com/Ivan-Herrera-Garcia/Mi-sition-web">Mi sitio web personal</a>
