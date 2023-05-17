@@ -11,7 +11,7 @@ Mi laptop personal: AMD RYZEN 5 3550H (8 Nucleos) con 16 GB RAM. Windows 11 y di
 ## Un par de proyectos y mis certificaciones/Reconocimientos/Constancias:
 * <a href="https://github.com/Ivan-Herrera-Garcia/Certificados">Certificados</a>
 * <a href="https://github.com/Ivan-Herrera-Garcia/Web-Scraping">Web Scraping con C#</a>
-* <a href="https://github.com/Ivan-Herrera-Garcia/Mi-sition-web">Mi sitio web personal</a>
+* <a href="https://github.com/Ivan-Herrera-Garcia/Mi-sitio-web-con-React">Mi sitio web personal con React</a>
 * <a href="https://github.com/Ivan-Herrera-Garcia/Things-with-Python">Algunos proyectos con Python</a>
 
 
