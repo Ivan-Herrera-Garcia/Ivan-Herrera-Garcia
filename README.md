@@ -37,5 +37,4 @@ Repositorio con certificados obtenidos a lo largo de mi educación profesional: 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Herrera-Garcia&layout=compact&theme=dark)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivan-herrera-garcia)](https://github.com/anuraghazra/github-readme-stats)
 
