@@ -23,4 +23,6 @@ Mi laptop personal: AMD RYZEN 5 3550H (8 Nucleos) con 16 GB RAM. Windows 11 y di
 <img src=https://user-images.githubusercontent.com/71898783/234956990-311aeab9-8274-46f1-936f-aee7a882cacb.png width=150 height=50></a>
 <img src=https://user-images.githubusercontent.com/71898783/234957182-6a963dda-90cf-42a8-95a7-94b81b74671b.jpg width=50 height=50></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-herrera-garcia)](https://github.com/anuraghazra/github-readme-stats)
+
 
