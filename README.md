@@ -35,6 +35,6 @@ Repositorio con certificados obtenidos a lo largo de mi educación profesional: 
 <img src=https://user-images.githubusercontent.com/71898783/234956990-311aeab9-8274-46f1-936f-aee7a882cacb.png width=150 height=50></a>
 <img src=https://user-images.githubusercontent.com/71898783/234957182-6a963dda-90cf-42a8-95a7-94b81b74671b.jpg width=50 height=50></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Herrera-Garcia&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Herrera-Garcia&layout=compact&theme=highcontrast&langs_count=8)
 
 
