@@ -15,8 +15,13 @@ En este proyecto, utilicé C# y sus paquetes NuGet para realizar web scraping, q
 <a href="https://github.com/Ivan-Herrera-Garcia/Web-Scraping">Web Scraping con C#</a>
 
 ## React + API Pokemon: 
-En este proyecto, desarrollé una aplicación utilizando React y una API creada por RETBOT. La aplicación muestra información sobre diferentes pokemones, como sus nombres y tipos. En futuras actualizaciones, se incluirá más información y la página será más dinámica. Puedes ver el contenido actual del sitio en el siguiente enlace: [Pokemon + React](enlace del sitio).
+En este proyecto, desarrollé una aplicación utilizando React y una API creada por RETBOT. La aplicación muestra información sobre diferentes pokemones, como sus nombres y tipos. En futuras actualizaciones, se incluirá más información y la página será más dinámica. Puedes ver el contenido actual del sitio en el siguiente enlace:
 <a href="https://github.com/Ivan-Herrera-Garcia/React---Pokemon">React + Api Pokemon</a>
+
+## API Digimon hecha con C# y NodeJS: 
+En este proyecto, desarrollé una API haciendo uso de un Web Scraper en C# de Digimon y haciendo uso de NodeJS. Puedes buscar Digimons por nombre, ID o simplemente ver la informacion de todos
+en general. La API esta disponible en ONRENDER, pero al ser un sitio free debes esperar unos minutos para verla. Puedes ver el contenido en el siguiente enlace:
+<a href="[https://github.com/Ivan-Herrera-Garcia/React---Pokemon](https://github.com/Ivan-Herrera-Garcia/Api-Digimon-Nodejs)">API DIGIMON con NodeJS</a>
 
 ## Varios proyectos con Python: 
 Este repositorio contiene pequeños programas desarrollados en Python, como manipulación de imágenes con OpenCV para librerías de libros, dibujos con Turtle, uso de herramientas de Cloud IBM (Bases de datos), entre otros. Los temas abordados incluyen OpenCV, dibujos, ejemplos con diccionarios y ejemplos con OpenAI y módulos de IA.
