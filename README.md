@@ -23,6 +23,10 @@ En este proyecto, desarrollé una API haciendo uso de un Web Scraper en C# de Di
 en general. La API esta disponible en ONRENDER, pero al ser un sitio free debes esperar unos minutos para verla. Puedes ver el contenido en el siguiente enlace:
 <a href="https://github.com/Ivan-Herrera-Garcia/Api-Digimon-Nodejs">API Digimon con NodeJS</a>
 
+## React + API de Zoro Anime: 
+En este proyecto, desarrollé una aplicacion utilizando React y una API publica de un sitio web llamado Zoro, en la cual hay informacion de mas de 1000 animes. Con la API tome mis 7 animes favoritos y los mostre con su descripcion, genero, año de emision y lista de capitulos en los cuales al dar click te llevará al sitio Zoro. Una excelente API para los amantes del anime!. Puedes ver el contenido en el siguiente enlace:
+<a href="https://github.com/Ivan-Herrera-Garcia/Mis-Animes-Favoritos">API Digimon con NodeJS</a>
+
 ## Varios proyectos con Python: 
 Este repositorio contiene pequeños programas desarrollados en Python, como manipulación de imágenes con OpenCV para librerías de libros, dibujos con Turtle, uso de herramientas de Cloud IBM (Bases de datos), entre otros. Los temas abordados incluyen OpenCV, dibujos, ejemplos con diccionarios y ejemplos con OpenAI y módulos de IA.
 <a href="https://github.com/Ivan-Herrera-Garcia/Things-with-Python">Algunos proyectos con Python</a>
