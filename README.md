@@ -30,6 +30,11 @@ En este proyecto, desarrollé una aplicacion utilizando React y una API publica 
 ## Varios proyectos con Python: 
 Este repositorio contiene pequeños programas desarrollados en Python, como manipulación de imágenes con OpenCV para librerías de libros, dibujos con Turtle, uso de herramientas de Cloud IBM (Bases de datos), entre otros. Los temas abordados incluyen OpenCV, dibujos, ejemplos con diccionarios y ejemplos con OpenAI y módulos de IA.
 <a href="https://github.com/Ivan-Herrera-Garcia/Things-with-Python">Algunos proyectos con Python</a>
+
+## React TailWind + Mi Portafolio Profesional: 
+En este proyecto, desarrollé una aplicacion utilizando React, Tailwind y MongoBD Atlas. En el cual muestro informacion propia y un poco de informacion de mis proyectos. La base de datos sirve para guardar la informacion de un formulario y visualizar en caso de tener personas interesadas en mi. Puedes ver el sitio web en el siguiente enlace:
+<a href="https://mi-portafolio-ihg.netlify.app/">Mi portafolio</a>
+
  
 # Certificados/Reconocimientos/Constancias:
 
