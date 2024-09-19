@@ -1,6 +1,6 @@
 # ¡Hola a todos! 👋
 
-## Me presento, soy el Ingeniero Ivan Herrera Garcia. Estudie en el TECNM Campus Laguna (2018-2023) y soy egresado de la carrera Ingenieria en Sistemas Computacionales.
+### Me presento, soy el Ingeniero Ivan Herrera Garcia. Estudie en el TECNM Campus Laguna (2018-2023) y soy egresado de la carrera Ingenieria en Sistemas Computacionales.
 
 # Experiencia laboral:
 ## Desarrollador Fullstack en API Inmuebles & Asesores S.A. de C.V.: 
