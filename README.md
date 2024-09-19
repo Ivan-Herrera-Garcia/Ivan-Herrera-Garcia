@@ -1,17 +1,24 @@
 # ¡Hola a todos! 👋
 
-Me gustaría compartir un poco sobre mí. A lo largo de mi carrera, he descubierto que el trabajo en equipo es fundamental para alcanzar el éxito en cualquier proyecto. Me he involucrado en varios proyectos en equipo y he aprendido a colaborar de manera efectiva con mis compañeros para lograr objetivos comunes. Siempre me esfuerzo por ser un miembro confiable y productivo del equipo, aportando mis habilidades y conocimientos para ayudar al avance del proyecto.
+## Me presento, soy el Ingeniero Ivan Herrera Garcia. Estudie en el TECNM Campus Laguna (2018-2023) y soy egresado de la carrera Ingenieria en Sistemas Computacionales.
 
-Además de mi compromiso con el trabajo en equipo, también me enfoco en desarrollar mis habilidades técnicas y de liderazgo. He participado en cursos de formación, seminarios y talleres relacionados con la informática y la tecnología. Asimismo, he trabajado en proyectos personales para mejorar mis habilidades en áreas como la programación, la administración de bases de datos y el análisis de datos.
-
-En resumen, mi enfoque en el cumplimiento de proyectos, el trabajo en equipo y el desarrollo de habilidades técnicas y de liderazgo me ha permitido avanzar en mi carrera académica en Sistemas Computacionales. Sigo comprometido con mi educación y estoy emocionado por ver lo que el futuro me depara en el campo de la informática y la tecnología.
-
-A continuación, mencionaré algunos de mis proyectos y certificaciones/reconocimientos/constancias:
 # Experiencia laboral:
 ## Desarrollador Fullstack en API Inmuebles & Asesores S.A. de C.V.: 
-En mi rol como desarrollador fullstack, participé y sigo en el proyecto actualmente en la creación y actualización de la página web de la empresa, utilizando una variedad de librerías npm, Next.js, React, SQL Server, y gestionando contenido en dos idiomas (español e inglés). Puedes ver el sitio web en el siguiente enlace:
-<a href="https://www.propiedadesmexico.com/Es">API Inmuebles & Asesores</a>
+Actualmente trabajo en API INMUEBLES & ASESORES en Torreon Coahuila (Abril 2023 - Actualidad). Mi actual puesto es como Desarrollador FullStack en los proyectos dentro de la empresa. 
+Mi proyecto principal consiste en el diseño y desarrollo de la pagina <a href="https://www.propiedadesmexico.com/Es">PROPIEDADES MEXICO</a> en la cual se pueden visualizar propiedades inmobiliarias disponibles en todo Mexico, con sistema de cuentas, favoritos y con la facilidad de contactar a los asesores quienes son los responsables de las ventas/rentas de dichas propiedades.
 
+El segundo proyecto dentro de API INMUEBLES consiste en el desarrollo del CRM con ASP. NET utilizando SQL Server y MVC. Como todos sabemos CRM es una aplicacion web que permite gestionar las relaciones con los clientes. En dicho CRM pueden visualizar propiedades y pueden tener un seguimiento de sus actividades con los asesores.
+
+Mis principales tecnologicas que utilizo son:
+<ol>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>C#</li>
+  <li>SQL SERVER</li>
+  <li>Python</li>
+</ol>
+
+A continuación, mencionaré algunos de mis proyectos y certificaciones/reconocimientos/constancias:
 # Proyectos:
 ## React + TailWind + Mi Portafolio Profesional: 
 En este proyecto, desarrollé una aplicacion utilizando React, Tailwind y MongoBD Atlas. En el cual muestro informacion propia y un poco de informacion de mis proyectos. La base de datos sirve para guardar la informacion de un formulario y visualizar en caso de tener personas interesadas en mi. Puedes ver el sitio web en el siguiente enlace:
