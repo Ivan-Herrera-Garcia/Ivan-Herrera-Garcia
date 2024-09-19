@@ -3,7 +3,7 @@
 ### Me presento, soy el Ingeniero Ivan Herrera Garcia. Estudie en el TECNM Campus Laguna (2018-2023) y soy egresado de la carrera Ingenieria en Sistemas Computacionales.
 
 # Experiencia laboral:
-## Desarrollador Fullstack en API Inmuebles & Asesores S.A. de C.V.: 
+### Desarrollador Fullstack en API Inmuebles & Asesores S.A. de C.V.: 
 Actualmente trabajo en API INMUEBLES & ASESORES en Torreon Coahuila (Abril 2023 - Actualidad). Mi actual puesto es como Desarrollador FullStack en los proyectos dentro de la empresa. 
 Mi proyecto principal consiste en el diseño y desarrollo de la pagina <a href="https://www.propiedadesmexico.com/Es">PROPIEDADES MEXICO</a> en la cual se pueden visualizar propiedades inmobiliarias disponibles en todo Mexico, con sistema de cuentas, favoritos y con la facilidad de contactar a los asesores quienes son los responsables de las ventas/rentas de dichas propiedades.
 
