@@ -70,5 +70,5 @@ Sistema completo para administración inmobiliaria:
 ---
 
 📫 **Contacto:**  
-- Portafolio: [https://mi-portafolio-ihg.netlify.app/](https://mi-portafolio-ihg.netlify.app/)  
+- Portafolio: [https://mi-portafolio-ihg.netlify.app/](https://bellkhen.netlify.app/)  
 - GitHub: [Ivan-Herrera-Garcia](https://github.com/Ivan-Herrera-Garcia)
