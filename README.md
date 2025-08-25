@@ -70,5 +70,5 @@ Sistema completo para administración inmobiliaria:
 ---
 
 📫 **Contacto:**  
-- Portafolio: [Bellkhen](https://bellkhen.netlify.app/)  
+- Portafolio: [Bellkhen](https://code-hunters.netlify.app/me)  
 - GitHub: [Ivan-Herrera-Garcia](https://github.com/Ivan-Herrera-Garcia)
