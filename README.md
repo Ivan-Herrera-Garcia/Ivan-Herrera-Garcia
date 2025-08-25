@@ -1,7 +1,7 @@
 ### 👋 ¡Hola! Soy Iván Herrera García
 
 #### 🧠 Ingeniero en Sistemas Computacionales | Desarrollador Fullstack  
-Egresado del **TecNM Campus Laguna (2018–2023)**  
+Egresado del **TecNM Campus Laguna (2019–2024)**  
 Actualmente colaboro en **API Inmuebles & Asesores S.A. de C.V.** en **Torreón, Coahuila**
 
 ---
